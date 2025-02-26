@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CASPERTECH - Laptop Repairs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 15px 0;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background-image: url('https://pfst.cf2.poecdn.net/base/image/b1bda516f593572aa58e27f6506b5ea93261d79568064dc2948ad98c91500a1e?w=1024&h=768&pmaid=299746528');
+            background-size: cover;
+            background-position: center;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            color: #fff; /* Adjust text color for contrast */
+        }
+        section {
+            background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to CASPERTECH</h1>
+        <nav>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>We specialize in laptop repairs, including hardware and software solutions.</p>
+            <ul>
+                <li>Screen replacement</li>
+                <li>Keyboard repair</li>
+                <li>Virus removal</li>
+                <li>Data recovery</li>
+                <li>General maintenance</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Location: 117 Drew Road, Chisipite, Harare</p>
+            <p>Cell Phone: +263 776 344 06</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 CASPERTECH. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
